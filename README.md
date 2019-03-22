@@ -24,3 +24,5 @@ The main features of NEMU include
   * most of them are simplified and unprogrammable
 * 2 types of I/O
   * port-mapped I/O and memory-mapped I/O
+
+Reference: https://nju-ics.gitbooks.io/ics2016-programming-assignment/content/
